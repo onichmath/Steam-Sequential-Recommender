@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca650079b80d5f7d3c8332e57e7449cd8ad2a5dffe9873c1d321b0cb90f88d5c
-size 386
+# Usage 
+## Data
+Please put the unaltered data files in the data folder. 
+## Packages
+First create a virtual environment using the following command:
+```bash
+python -m venv venv
+```
+Then activate the virtual environment:
+Linux:
+```bash
+source venv/bin/activate
+```
+Windows:
+```bash
+.\venv\Scripts\activate
+```
+Install the required packages:
+```bash
+pip install -r requirements.txt
+```
