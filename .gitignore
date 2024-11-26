@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9aa22a8d31af63621da6f2e4f723b93ee81faac5a0b41d5321edc60d08d937d0
-size 78
+/data/*
+!/data/reviews.parquet
+!/data/products_X.parquet
+/.ipynb_checkpoints/
