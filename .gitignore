@@ -1,4 +1,2 @@
 /data/*
-!/data/reviews.parquet
-!/data/products_X.parquet
 /.ipynb_checkpoints/
