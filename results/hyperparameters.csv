@@ -1,0 +1,8 @@
+Hyperparameter,Bert4Rec,D-CE,D-CCE
+Batch Size,256.0,128.0,32.0
+Block Size,50.0,64.0,64.0
+Dropout,0.5,0.5,0.5
+Embedding Dim,64.0,64.0,64.0
+Epochs,5.0,15.0,15.0
+Hidden Dim,64.0,256.0,256.0
+Learning Rate,0.001,0.001,0.001
